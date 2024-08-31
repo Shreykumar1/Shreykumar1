@@ -36,21 +36,6 @@ I'm a passionate **Full-Stack Developer** with experience in building dynamic an
  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-## 🛠️ Top Projects
-
-### GPTGenius
-- **Tech Stack:** Next.js, React, Gemini GenAI, Prisma, Tailwind CSS, DaisyUI
-- **Overview:** A cutting-edge web application that leverages AI for real-time chat, personalized tour generation, and landmark identification.
-
-### WhatsApp Clone
-- **Tech Stack:** MERN, Material UI, Socket.IO
-- **Overview:** A real-time chat application with features like message sending, editing, deleting, sharing, and replying, along with Google OAuth authentication and file sharing using GridFS.
-
-### FootCap
-- **Tech Stack:** MERN, MySQL
-- **Overview:** A shoe e-commerce platform with features like product listing, shopping cart, order management, and an admin panel.
-
 ## 📫 How to Reach Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreykumar1)
