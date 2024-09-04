@@ -26,7 +26,6 @@ I'm a passionate **Full-Stack Developer** with experience in building dynamic an
 
 ### AI & Machine Learning
  ![Gemini GenAI](https://img.shields.io/badge/-Gemini_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white)
- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Other Tools
  ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
